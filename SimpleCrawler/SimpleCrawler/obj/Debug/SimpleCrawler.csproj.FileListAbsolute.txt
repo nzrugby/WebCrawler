@@ -1,0 +1,5 @@
+c:\users\nj\documents\visual studio 2015\Projects\SimpleCrawler\SimpleCrawler\bin\Debug\SimpleCrawler.dll
+c:\users\nj\documents\visual studio 2015\Projects\SimpleCrawler\SimpleCrawler\bin\Debug\SimpleCrawler.pdb
+c:\users\nj\documents\visual studio 2015\Projects\SimpleCrawler\SimpleCrawler\obj\Debug\SimpleCrawler.csprojResolveAssemblyReference.cache
+c:\users\nj\documents\visual studio 2015\Projects\SimpleCrawler\SimpleCrawler\obj\Debug\SimpleCrawler.dll
+c:\users\nj\documents\visual studio 2015\Projects\SimpleCrawler\SimpleCrawler\obj\Debug\SimpleCrawler.pdb
